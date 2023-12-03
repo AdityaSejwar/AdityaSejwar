@@ -1,5 +1,5 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=3000&pause=50&color=1AF71F&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+This+is+Aditya+Singh.;Software+Developer;By+Default" alt="Typing SVG" /></a>
-<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=3000&pause=50&color=1AF71F&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+This+is+Aditya+Singh.;Software+Developer;By+Default." alt="Typing SVG" /></a>
+<br><br>
 I am a student learning new things ,pursuing bachelor's in Computer Science Engineering with specialization of Artificial intelligence and Machine Learning.
 <br>
 

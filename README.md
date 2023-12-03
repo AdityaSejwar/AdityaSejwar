@@ -1,3 +1,4 @@
+CURRENTLY WOKING ON THIS PAGE
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=3000&pause=50&color=1AF71F&center=true&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+This+is+Aditya+Singh.;Software+Developer;By+Default." alt="Typing SVG" /></a>
 <br><br>
 I am a student learning new things ,pursuing bachelor's in Computer Science Engineering with specialization of Artificial intelligence and Machine Learning.
@@ -19,10 +20,10 @@ Skills:  JS / HTML / CSS/bootstrap/ node.js
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSejwar)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSejwar&show_icons=true)  
 
-<br>
+
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/AdityaSejwar/contributions?format=svg&private=false)  
 
 

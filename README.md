@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine learning**<br><br>
 - I am a student learning new things ,pursuing bachelor's in Computer Science Engineering with specialization of Artificial intelligence and Machine Learning.<br><br>
-- ⚡ Fun fact **You are reading this 😁**
+- ⚡ Fun fact --- **You are reading this 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

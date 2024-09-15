@@ -8,6 +8,7 @@
 - I am a student learning new things ,pursuing bachelor's in Computer Science Engineering with specialization of Artificial intelligence and Machine Learning.<br><br>
 - ⚡ Fun fact --- **You are reading this 😁**
 
+<br> <h3 align="center"> You are my <pre>  ![Visitor Count](https://profile-counter.glitch.me/{adityasejwar}/count.svg)  </pre>   Visitor 🤟</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-singh-6297242a5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-singh-4ba0982a2" height="30" width="40" /></a>
